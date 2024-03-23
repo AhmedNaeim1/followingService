@@ -5,3 +5,4 @@ Flask-RESTful-Swagger
 flask-swagger-ui
 flask_sqlalchemy
 python-dotenv
+psycopg2
